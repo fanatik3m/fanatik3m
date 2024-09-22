@@ -6,6 +6,17 @@
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py" />
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+    <img src="https://skillicons.dev/icons?i=django" />
+    <img src="https://skillicons.dev/icons?i=postgres" />
+    <img src="https://skillicons.dev/icons?i=redis" />
+    <img src="https://skillicons.dev/icons?i=rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=linux" />
+    <img src="https://skillicons.dev/icons?i=nginx" />
+    <img src="https://skillicons.dev/icons?i=gunicorn" />
 </a>
 
 <!--
