@@ -5,7 +5,13 @@
 ### Skills:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,rabbitmq,docker,git,linux,nginx,gunicorn" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,rabbitmq,docker,git,github,linux,ubuntu,bash,nginx,gunicorn" />
+</a>
+
+### Softwares:
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pycharm,vscode,postman" />
 </a>
 
 <!--
