@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Stas!
+
+### I'm an active Python BackEnd Developer
+
+### Skills:
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py" />
+</a>
 
 <!--
 **fanatik3m/fanatik3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
