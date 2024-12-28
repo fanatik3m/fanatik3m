@@ -5,7 +5,19 @@
 ### Skills:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,rabbitmq,docker,git,github,linux,bash,nginx,mongo" />
+    <img src="https://skillicons.dev/icons?i=py" />
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo" />
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redis,rabbitmq" />
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,nginx" />
 </a>
 
 ### Softwares:
