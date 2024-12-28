@@ -13,3 +13,6 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pycharm,vscode,postman" />
 </a>
+
+### 🚀GitHub Stats
+![github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emptybutton&theme=transparent)
