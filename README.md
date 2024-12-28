@@ -15,4 +15,4 @@
 </a>
 
 ### 🚀GitHub Stats
-![github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fanatik3m&theme=default)
+![github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fanatik3m&theme=dark)
